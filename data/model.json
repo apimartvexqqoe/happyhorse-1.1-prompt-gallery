@@ -1,0 +1,10 @@
+{
+  "id": "happyhorse-1.1",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:13Z",
+  "prices": {},
+  "rates": {},
+  "unit": null,
+  "hook": "from $0.01 per image on the APIMart route",
+  "model_page": "https://apimart.ai/model/happyhorse-1-0"
+}
